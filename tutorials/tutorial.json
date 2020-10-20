@@ -1,5 +1,5 @@
 {
-  "name": "Java React S3 Dataset",
+  "name": "Java React Dataset",
   "appLayout": "accordion",
   "appTheme": "g90",
   "footer": "footer.md",
@@ -7,8 +7,8 @@
     {
       "description": "This is a Java sample application deployed as a microservice.",
       "duration": "5",
-      "tutorial_name": "java-react-s3-dataset.md",
-      "title": "Java React S3 Dataset"
+      "tutorial_name": "java-react-dataset.md",
+      "title": "Java React Dataset"
     }
   ],
   "usefulLinks": [],
