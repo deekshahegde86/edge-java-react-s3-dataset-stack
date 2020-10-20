@@ -15,11 +15,11 @@
   "commands": [
     {
       "description": "Clone the repository",
-      "exec": "cd /home/student/projects && git clone https://github.com/Andi-Cirjaliu/edge-java-react-s3-dataset-deploy.git"
+      "exec": "cd /home/student/projects && git clone https://github.com/Andi-Cirjaliu/edge-java-react-dataset-deploy.git"
     },
     {
       "description": "Change to the current directory where the repository is cloned",
-      "exec": "cd /home/student/projects/edge-java-react-s3-dataset-deploy"
+      "exec": "cd /home/student/projects/edge-java-react-dataset-deploy"
     },
     {
       "description": "Install the application using skaffold",
