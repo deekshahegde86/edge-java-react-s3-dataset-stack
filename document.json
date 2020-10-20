@@ -15,7 +15,7 @@
   "commands": [
     {
       "description": "Clone the repository",
-      "exec": "git clone https://github.com/Andi-Cirjaliu/edge-java-react-s3-dataset-deploy.git"
+      "exec": "cd /home/student/projects && git clone https://github.com/Andi-Cirjaliu/edge-java-react-s3-dataset-deploy.git"
     },
     {
       "description": "Change to the current directory where the repository is cloned",
