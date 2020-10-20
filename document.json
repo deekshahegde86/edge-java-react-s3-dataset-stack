@@ -1,6 +1,6 @@
 {
-  "name": "Java React S3 Dataset",
-  "description": "Java sample application using an S3 dataset.",
+  "name": "Java React Dataset",
+  "description": "Java sample application using a dataset.",
   "logo": "_images/stack.png",
   "has_supporting_content": true,
   "stack_id": "employment-app-stack",
