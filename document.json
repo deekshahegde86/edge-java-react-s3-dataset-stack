@@ -1,0 +1,52 @@
+{
+  "name": "Java React S3 Dataset",
+  "description": "Java sample application using an S3 dataset.",
+  "logo": "_images/stack.png",
+  "has_supporting_content": true,
+  "stack_id": "employment-app-stack",
+  "type": "stack",
+  "categories": [
+    "Backend",
+    "Data API",
+    "ReactJs"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "commands": [
+    {
+      "description": "Clone the repository",
+      "exec": "git clone https://github.com/Andi-Cirjaliu/edge-java-react-s3-dataset-deploy.git"
+    },
+    {
+      "description": "Change to the current directory where the repository is cloned",
+      "exec": "cd /home/student/projects/edge-java-react-s3-dataset-deploy"
+    },
+    {
+      "description": "Install the application using skaffold",
+      "exec": "skaffold config set default-repo localhost:5000 && skaffold run"
+    }
+  ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "buckets": [],
+  "meta": {
+    "Install time": [
+      "5 minutes"
+    ],
+    "Language": [
+      "Java",
+      "S3"
+    ],
+    "categories": [
+      "Backend",
+      "Data API",
+      "ReactJs"
+    ]
+  },
+  "isDocumentSaved": true
+}

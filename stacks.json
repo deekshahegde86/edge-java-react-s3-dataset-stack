@@ -1,0 +1,24 @@
+{
+  "title": "Java React S3 Dataset",
+  "description": "Java sample application using an S3 dataset.",
+  "logo": "_images/stack.png",
+  "enabled": false,
+  "language": [
+    "Java",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "employment-app-stack",
+  "type": "stack",
+  "categories": [
+    "Backend",
+    "Data API",
+    "ReactJs"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "5 minutes",
+  "isStacksSaved": true
+}
