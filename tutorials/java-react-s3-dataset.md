@@ -1,6 +1,6 @@
 ```
 ---
-title: Employment S3 Dataset Application (Java/S3 Dataset) Stack Tutorial
+title: Employment Dataset Application (Java/Dataset) Stack Tutorial
 description: The Stack comprises of a Java Spring application deployed as Microservice
 ---
 
